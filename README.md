@@ -1,10 +1,5 @@
 # xgbviz
-This interactive application illustrates the mechanics of the most important parameters in tree-based gradient boosting. You can [try out the app online](https://maximilianeber.shinyapps.io/xgbviz/). For better performance, install the app locally via:
-
-```r
-devtools::install_github('maximilianeber/xgbviz')
-```
-To run the app on your computer, open `server.R` in RStudio and click on `Run App`.
+This interactive application illustrates the mechanics of the most important parameters in tree-based gradient boosting. You can [try out the app online](https://maximilianeber.shinyapps.io/xgbviz/). For lower latency, clone the repository, open `server.R` in RStudio, and click on `Run App`.
 
 ## Input parameters
 
